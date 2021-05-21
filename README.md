@@ -1,5 +1,7 @@
 # go-cloud-events
 
+Testing out the implementation of [cloudevents](https://github.com/cloudevents/sdk-go).
+
 ```bash
 # Starting the server.
 $ go run server.go
